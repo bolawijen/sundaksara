@@ -1,0 +1,7 @@
+{
+	"name": "svelte-keyboard",
+	"type": "module",
+	"typings": "./Keyboard.svelte.d.ts",
+	"main": "./Keyboard.svelte",
+	"svelte": "./Keyboard.svelte"
+}

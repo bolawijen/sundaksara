@@ -1,0 +1,5 @@
+preload = ['./plugins.ts']
+
+[serve.static]
+plugins = ['bun-plugin-svelte']
+env = 'PUB_*'

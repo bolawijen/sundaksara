@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "bun index.html"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.15",
+    "bun-plugin-svelte": "^0.0.5",
+    "svelte": "^5.33.15"
+  },
+  "dependencies": {
+    "zimmerframe": "^1.1.2"
+  }
+}
